@@ -13,6 +13,7 @@ public class Mavenproject1 {
     // comentario inicial
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hola World!");
     }
 }
+// se ha agregado un comentario final
